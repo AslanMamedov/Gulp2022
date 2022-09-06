@@ -1,0 +1,4 @@
+{
+	"src/js/**/*.js": "eslint --color",
+	"src/scss/**/*.scss": "stylelint"
+}
